@@ -107,6 +107,7 @@
   text-align: justify;
 }
 .paragraph p {
+  margin-top: -41px;
   font-family: Bahnschrift SemiBold;
 }
 .heading h1 {
